@@ -61,18 +61,6 @@ int main()
 				printf("Thankyou for using atm:");
 				exit;
 				break;
-}
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
+}
 			
 			
